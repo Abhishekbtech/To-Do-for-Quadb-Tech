@@ -18,8 +18,8 @@ Build a simple React To-Do application that allows users to add, view, and delet
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Abhishekbtech/TODO-with-Redux-With-Vite-React.git
-cd todo-with-redux
+git clone https://github.com/Abhishekbtech/To-Do-for-Quadb-Tech.git
+cd to-do
 ```
 
 2. Install dependencies:
