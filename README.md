@@ -1,4 +1,4 @@
-# Build a Simple React To-Do Application
+# A Simple React To-Do Application
 Build a simple React To-Do application that allows users to add, view, and delete tasks. The application should demonstrate understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
 
 ## Features
